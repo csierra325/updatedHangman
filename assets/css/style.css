@@ -1,0 +1,61 @@
+
+
+body {
+    background-image: url("../images/babygroot.jpg");
+        height: 100%; 
+        background-repeat: no-repeat;
+        background-size: cover;
+ }
+ 
+ h1 {
+  
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-weight: bolder;
+ font-size: 25px;
+ text-align: center;
+ background-color:green;
+ padding: 25px;
+ 
+ }
+ 
+ .container{
+     background-color: white;
+     opacity: 0.5;
+     text-align: left;
+     margin:30px;
+     width: 35%;
+     
+ }
+ 
+ p{
+     font-weight: bold;
+     font-size: 2em;
+     
+     
+ }
+ 
+ .begin {
+     padding: 25px;
+ }
+ 
+ .hidden-word {
+ padding: 25px;
+ 
+ }
+ 
+ .incorrect-guesses{
+     padding: 25px;
+ }
+ 
+ .wins{
+     padding: 25px;
+ }
+ 
+ .losses{
+     padding: 25px;
+ }
+ 
+ .numberofguesses{
+     padding: 25px;
+ }
+ 
